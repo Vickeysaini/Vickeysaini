@@ -1,6 +1,6 @@
 ![logo](https://github.com/Vickeysaini/Vickeysaini/blob/main/Cloud%20(2).png)
 <h1 align="center">Hi 👋, I'm Vickey Saini</h1>
-<h3 align="center">A passionate Cloud Engineer from India</h3>
+<h3 align="center">Cloud Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vickeysaini&label=Profile%20views&color=0e75b6&style=flat" alt="vickeysaini" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud Engineer |Docker | Kubernetes**
 
-- 🤝 I’m looking for help with **DevOps Engineer**
+- 🤝 I’m **DevOps Engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vickeysaini?tab=repositories](https://github.com/Vickeysaini?tab=repositories)
 
