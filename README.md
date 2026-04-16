@@ -13,19 +13,6 @@
 - <p align="left">I am DevOps Engineer specializing in AWS, Terraform, Kubernetes, Docker, CI/CD pipelines, and monitoring tools. I have hands-on experience in building scalable, reliable, and automated cloud infrastructure, optimizing deployments, and improving system performance. I enjoy working on cloud platforms and modern DevOps practices to deliver efficient, secure, and production-ready solutions.</p>
 - 👨‍💻 All of my projects are available at [https://github.com/Vickeysaini?tab=repositories](https://github.com/Vickeysaini?tab=repositories)
 
-<h3 align="left">Connect with me:</h3>
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
-
 <h3 align="left">I Automation with:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
