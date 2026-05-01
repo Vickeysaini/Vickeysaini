@@ -12,9 +12,9 @@ I work across cloud platforms and modern DevOps tooling to ensure applications a
 - 🎤 Available for **Guest Sessions / Webinars**
 - 🤝 Open to **Project Collaborations / YouTube Collabs**
 - 💼 Offering **DevOps Consulting / Mentorship**
-- 📩 Let’s chat: **office@devopsshack.com**
+- 📩 Let’s chat: **office@com**
 
-> *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
+> *" DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
 
 ---
 
