@@ -1,56 +1,31 @@
-![logo](https://github.com/Vickeysaini/Vickeysaini/blob/main/Cloud%20(2).png)
 <h1 align="center">Hi 👋, I'm Vickey Saini</h1>
-<h3 align="center">Cloud Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<h3 align="center">I’m a DevOps Engineer focused on building reliable systems, automating infrastructure, and improving deployment workflows. I work across cloud platforms and modern DevOps tooling to ensure applications are scalable, observable, and production-ready.</h3>
+<img align="right" alt="coding" width="400" src="https://www.linkedin.com/pulse/mastering-angular-building-robust-web-applications-4-amin-2deuf">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vickeysaini&label=Profile%20views&color=0e75b6&style=flat" alt="vickeysaini" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vickeysaini19" target="blank"><img src="https://img.shields.io/twitter/follow/vickeysaini19?logo=twitter&style=for-the-badge" alt="vickeysaini19" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vickeysaini" alt="vickeysaini" /></a> </p>
 
-<br clear="both">
-<p align="left">AWS | DevOps Engineer | Cloud Enthusiast | Automation</p>
+- 📝 I regularly write articles on [www.ggoghasddf.com](www.ggoghasddf.com)
 
-- 💬 Ask me about
-- <p align="left">I am DevOps Engineer specializing in AWS, Terraform, Kubernetes, Docker, CI/CD pipelines, and monitoring tools. I have hands-on experience in building scalable, reliable, and automated cloud infrastructure, optimizing deployments, and improving system performance. I enjoy working on cloud platforms and modern DevOps practices to deliver efficient, secure, and production-ready solutions.</p>
-- 👨‍💻 All of my projects are available at [https://github.com/Vickeysaini?tab=repositories](https://github.com/Vickeysaini?tab=repositories)
+- 💬 Ask me about **I prefer clean, maintainable setups over overly complex solutions. Good documentation, reproducibility, and reliability are always priorities.**
 
-<h3 align="left">I Automation with:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
-</div>
+- 📄 Know about my experiences [resumelink](resumelink)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Cloud Engineer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Cloud Engineer" /></a></p><br><br>
+- ⚡ Fun fact **If I find myself doing the same task twice, I usually automate it the third**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/vickeysaini19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vickeysaini19" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vickey saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vickey saini" height="30" width="40" /></a>
+<a href="https://discord.gg/vickeysaini19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vickeysaini19" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vickeysaini&show_icons=true&locale=en&layout=compact" alt="vickeysaini" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vickeysaini&show_icons=true&locale=en" alt="vickeysaini" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vickeysaini&" alt="vickeysaini" /></p>
+
