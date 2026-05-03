@@ -59,8 +59,7 @@ DevOps Engineer | AWS | Kubernetes | CI/CD | Cloud Infrastructure & Automation
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/vickeysaini  
-- 📧 Email: your.email@example.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/vickey-saini/  
 
 ---
 
